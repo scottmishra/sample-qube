@@ -18,6 +18,14 @@ export function Counter() {
 
   const incrementValue = Number(incrementAmount) || 0;
 
+  const badFunction = () => {
+     let some_var;
+    some_var = 1;
+    if(some_var == 1){
+      console.log("should throw linting errors");
+    }
+  }
+
   return (
     <div>
       <div className={styles.row}>
