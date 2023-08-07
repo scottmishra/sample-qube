@@ -1,3 +1,7 @@
+# Sonar Cloud Gate
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=thisisatestkeythatiwilluseforthetestingofsonarlint_scott-test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=thisisatestkeythatiwilluseforthetestingofsonarlint_scott-test)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
